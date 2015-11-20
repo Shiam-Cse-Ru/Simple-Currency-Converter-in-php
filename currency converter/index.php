@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	<title>Currency converter PHP Script</title>
+	<title>Simple Currency converter</title>
 </head>
 <body>
 <div style="border:1px solid blue; background-color: #ccffcc;">
